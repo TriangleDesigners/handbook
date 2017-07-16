@@ -50,7 +50,7 @@ This policy is licensed under the [Creative Commons Zero license][cc0]. It is pu
 * There is a [guide for admins][organizers]
 * Please see the [Additional Resources][add-rec] document
 
-[organizers]: conduct-organizers.md
+[organizers]: ORGANIZER-CONDUCT.md
 [admins]: ADMINS.md
 [add-rec]: additional-resources.md
 [more]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment
