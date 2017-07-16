@@ -1,7 +1,7 @@
 # Handbook
 Policies and Organization Documents for TriangleDesigners.com
 
-# What is this?
+## What is this?
 
 Documentation, info, and the Code of Conduct for the [Triangle Designers Community](https://triangledesigners.com/).
 
