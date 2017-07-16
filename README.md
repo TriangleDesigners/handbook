@@ -5,8 +5,8 @@ Policies and Organization Documents for TriangleDesigners.com
 
 Documentation, info, and the Code of Conduct for the [Triangle Designers Community](https://triangledesigners.com/).
 
-* [Admin List][ADMINS.md]
-* [Community Partners][PARTNERS.md]
+* [Admin List][admins]
+* [Community Partners][partners]
 * [Code of Conduct][conduct]
 * [Guidelines for Admins][conduct-organizers]
 
@@ -16,7 +16,6 @@ Documentation, info, and the Code of Conduct for the [Triangle Designers Communi
 * [#chat](https://triangledevs.slack.com/messages/chat/)
 * [#events](https://triangledevs.slack.com/messages/events/)
 * [#help](https://triangledevs.slack.com/messages/help/)
-* [#culture](https://triangledevs.slack.com/messages/culture/)
 * [#jobs](https://triangledevs.slack.com/messages/jobs/)
 
 ## High-level Code of Conduct
@@ -35,3 +34,5 @@ All changes should be made by creating a new branch, making the desired changes,
 
 [conduct]: CODE-OF-CONDUCT.md
 [conduct-organizers]: ORGANIZER-CONDUCT.md
+[admins]: ADMINS.md
+[partners]: PARTNERS.md
