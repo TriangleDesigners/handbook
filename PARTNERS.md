@@ -1,7 +1,5 @@
 # Partners
 
-
-* Refresh the Triangle | Christian Reuter
 * AIGA Raleigh | Amy Lyons
 * Artistic / Creative Entrepreneurs | Kimberly McClain
 * Carolinas Innovators & Design Thinkers | Melissa Kennedy
@@ -13,5 +11,6 @@
 * Intent | Darwin Campa
 * Ladies That UX | Melissa Eggleston
 * Raleigh-Durham Web Design Group | Pepper Oldziey
+* Refresh the Triangle | Christian Reuter
 * Triangle Designers | Dan Moore
 * Triangle UXPA | Julie Grundy, Jacob Geib-Rosch, Michelle Chin
