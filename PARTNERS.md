@@ -8,6 +8,7 @@
 * exploreUX | Michelle Chin
 * Girl Develop It | Melissa Eggleston
 * Hopscotch Festival | Jonathan Opp
+* HQ Studio | Magdalyn Duffie
 * Intent | Darwin Campa
 * Ladies That UX | Melissa Eggleston
 * Raleigh-Durham Web Design Group | Pepper Oldziey
