@@ -8,3 +8,4 @@
 * [Julie Grundy](https://tridesign.slack.com/messages/@julie.grundy/) | Triangle UXPA, Bronto
 * [Magdalyn Duffie](https://tridesign.slack.com/messages/@magdalyn.duffie/) | HQ Studio
 * [Melissa Eggleston](https://tridesign.slack.com/messages/@melissa_egg/) | Ladies That UX, Girl Develop It, Lenovo
+* [Ashley Willard](https://tridesign.slack.com/messages/@ashley/) | Triangle Sketch Users, CenterEdge Software
