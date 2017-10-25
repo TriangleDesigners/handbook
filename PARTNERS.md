@@ -14,4 +14,5 @@
 * Raleigh-Durham Web Design Group | Pepper Oldziey
 * Refresh the Triangle | Christian Reuter
 * Triangle Designers | Dan Moore
+* Triangle Sketch Users | Ashley Willard
 * Triangle UXPA | Julie Grundy, Jacob Geib-Rosch, Michelle Chin
