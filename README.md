@@ -1,9 +1,7 @@
 # Handbook
-Policies and Organization Documents for TriangleDesigners.com
+Policies and Organization Documents for the [TriangleDesigners.com community](https://triangledesigners.com/).
 
-## What is this?
-
-Documentation, info, and the Code of Conduct for the [Triangle Designers Community](https://triangledesigners.com/).
+## Contents
 
 * [Admin List][admins]
 * [Community Contacts][community-contacts]
@@ -36,3 +34,7 @@ All changes should be made by creating a new branch, making the desired changes,
 [conduct-admins]: ADMIN-CONDUCT.md
 [admins]: ADMINS.md
 [community-contacts]: COMMUNITY-CONTACTS.md
+
+## Inspiration
+
+Shamelessly stolen (forked) from the [TriangleDevOps Policies Repo](https://github.com/TriangleDevOps/policies) and the [TriangleDevsSlack Policies repo](https://github.com/TriangleDevsSlack/policies)
